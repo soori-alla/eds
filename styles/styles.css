@@ -214,6 +214,8 @@ main img {
   max-width: 100%;
   width: auto;
   height: auto;
+  border-bottom-left-radius: 20%;
+  border-bottom-right-radius: 20%;
 }
 
 .icon {
